@@ -12,13 +12,25 @@ A simple React application for browsing products with a **price filter** feature
    cd <your-repo>
    
 2. **Install dependencies**
- npm install
+3. ```bash
+  npm install
 
-3. **Start the development server**
+4. **Start the development server**
    ```bash
    npm run dev
 
-4. **Open in Browser**
+5. **Open in Browser**
    ```bash
    http://localhost:3000
 
+6. **Tools / Libraries Used**
+   ```bash
+   React – UI library 
+   JavaScript (ES6+) – Logic implementation
+   CSS-in-JS (inline styles) – Quick styling for layout
+   Node.js & npm – Package management and dev server
+
+7. **AI Feature Chosen**
+   ```bash
+   Price Filter Logic: Recommendation System
+   Used AI assistance to structure the filtering logic for products based on price ranges (Below $50, $50-$100, Above $100).   
