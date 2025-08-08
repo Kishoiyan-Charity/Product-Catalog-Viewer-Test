@@ -4,6 +4,11 @@
 
 A simple React application for browsing products with a **price filter** feature.
 
+**Ittergration of AI with Blockchain features features (e.g., token-gated pricing, on-chain user preferences, loyalty smart contracts).**
+   ```
+   This AI can connect to blockchain so only token holders get special access. It can read user preferences stored on-chain to
+   give personalized responses. Users could also earn rewards through blockchain loyalty smart contracts.
+
 ## How to Run the App
 
 1. **Clone the repository**
@@ -34,4 +39,5 @@ A simple React application for browsing products with a **price filter** feature
 6. **AI Feature Chosen**
    ```bash
    Price Filter Logic: Recommendation System
-   Used AI assistance to structure the filtering logic for products based on price ranges (Below $50, $50-$100, Above $100).   
+   Used AI assistance to structure the filtering logic for products based on price ranges (Below $50, $50-$100, Above $100).
+   
