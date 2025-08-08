@@ -14,6 +14,7 @@ A simple React application for browsing products with a **price filter** feature
 2. **Install dependencies**
  ```bash
   npm install
+ ```
 
 3. **Start the development server**
    ```bash
