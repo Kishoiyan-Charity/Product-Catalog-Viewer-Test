@@ -1,0 +1,51 @@
+[
+    {
+    "id": 1,
+    "name": "Men's T-Shirt",
+    "category": "Men",
+    "price": 25,
+    "image": "https://images.unsplash.com/photo-1666358070736-3d5ae5ffc0f7?q=80&w=1470&auto=format&=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "rating": ""
+  },
+  { "id": 2, 
+    "name": "Women's Dresses", 
+    "category": "Women", 
+    "price": 50, 
+    "image": "https://media.istockphoto.com/id/1170648040/photo/beautiful-lady-overjoyed-by-warm-spring-breeze-dream-of-romantic-date-wear-cute-floral-dress.jpg?s=612x612&w=0&k=20&c=UzOoNF1-F6pR5uSu6mTqnPAYR4eg6paDy4FKfhYVInU=" },
+
+  { "id": 3, 
+    "name": "Kids Hoodie", 
+    "category": "Children", 
+    "price": 30, 
+    "image": "https://media.istockphoto.com/id/459212065/photo/cool-kids.jpg?s=612x612&w=0&k=20&c=y8EVAXhCqiH0RGfjpG405OnqIEWQO_5daqiakHkFgxY=" },
+
+  { "id": 4, 
+    "name": "Men's Running Shoes", 
+    "category": "Men", 
+    "price": 80, 
+    "image": "https://media.istockphoto.com/id/1478466587/photo/legs-two-male-runners-running-city-marathon-race-athletes-jogging-on-asphalt-road-summer.jpg?s=612x612&w=0&k=20&c=Z3cEjo-qr-AHPdRt08zfIyn_DKoYN4r3cqvDq09MiAc=" },
+
+  { "id": 5, 
+    "name": "Women's Handbag", 
+    "category": "Women", 
+    "price": 60, 
+    "image": "https://media.istockphoto.com/id/171264968/photo/a-pink-leather-bag-with-gold-chains.jpg?s=612x612&w=0&k=20&c=LFP1Q13rlhgBguTQ71NSZgiKuniP1fqZQf2VUqJsIyw=" },
+
+  { "id": 6, 
+   "name": "Kids Sneakers", 
+   "category": "Children",
+   "price": 40, 
+   "image": "https://media.istockphoto.com/id/157434344/photo/black-sneakers.jpg?s=612x612&w=0&k=20&c=40qZQUJgjPaeSELsZ6j927hudG46wHq7hJq8R2efres=" },
+
+  { "id": 7, 
+    "name": "Men's Caps", 
+    "category": "Men", 
+    "price": 10, 
+    "image": "https://media.istockphoto.com/id/858161202/photo/hipster-handsome-male-model-with-beard-wearing-black-blank-baseball-cap-with-space-for-your.jpg?s=612x612&w=0&k=20&c=4XLjnYIbSn729kP3muOEdP7-hVcNtEBhhxAY8SW-ffs=" },
+
+  { "id": 8, 
+    "name": "Women's Sandals", 
+    "category": "Women", 
+    "price": 35, 
+    "image": "https://media.istockphoto.com/id/963421638/photo/cropped-shot-of-woman-legs-in-stylish-sandals-on-beige-background.jpg?s=612x612&w=0&k=20&c=4Doc9nb58g25iXW7-TsSMJHvfrsuRHfvrCPUSZqrDfM=" }
+]
