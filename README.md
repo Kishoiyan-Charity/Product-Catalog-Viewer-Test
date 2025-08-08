@@ -15,8 +15,10 @@ A simple React application for browsing products with a **price filter** feature
  npm install
 
 3. **Start the development server**
-   ```npm run dev
+   ```bash
+   npm run dev
 
 4. **Open in Browser**
-   ```http://localhost:3000
+   ```bash
+   http://localhost:3000
 
