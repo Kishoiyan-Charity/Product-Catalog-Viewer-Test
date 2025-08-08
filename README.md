@@ -4,7 +4,7 @@
 
 A simple React application for browsing products with a **price filter** feature.
 
-**Ittergration of AI with Blockchain features features (e.g., token-gated pricing, on-chain user preferences, loyalty smart contracts).**
+**Intergration of AI with Blockchain features features (e.g., token-gated pricing, on-chain user preferences, loyalty smart contracts).**
    ```
    This AI can connect to blockchain so only token holders get special access. It can read user preferences stored on-chain to
    give personalized responses. Users could also earn rewards through blockchain loyalty smart contracts.
